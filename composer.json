@@ -1,0 +1,13 @@
+{
+    "name": "sonager/api-twitch-bundle",
+    "description": "Manage your Twitch account from Symfony",
+    "type": "bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Théo Bougé",
+            "email": "theo.bouge@gmail.com"
+        }
+    ],
+    "require": {}
+}
